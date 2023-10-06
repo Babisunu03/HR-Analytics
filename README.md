@@ -27,21 +27,21 @@
 Build a predictive model for attrition using logistic regression
 
 
-1  EDA
 
-2  Data cleaning
+
+1  Data cleaning
 
 
 . Checking data types
 
-3  Data transformation
+2  Data transformation
 
 
 . Split data into numerical and categorical values
 
 . Transform categorical variables
 
-4  Data Modelling
+3  Data Modelling
 
 
 .  Create  and train the model
