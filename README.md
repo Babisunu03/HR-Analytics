@@ -6,7 +6,7 @@
 
                 36 COLUMNS
 
-. Created  Hr Analytics Dashboard using Tableau.
+. Created  HR Analytics Dashboard using Tableau.
 
 . Created some insights how attrition is affecting different attributes.
 
@@ -47,6 +47,9 @@ Build a predictive model for attrition using logistic regression
 .  Create  and train the model
 
 .  Test the model
+
+
+
 
 
 
