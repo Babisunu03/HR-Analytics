@@ -10,7 +10,7 @@
 
 . Created some insights how attrition is affecting different attributes.
 
---Attrition VS Gender
+--Attrition Vs Gender
 
 --Attrition Vs Department
 
@@ -18,7 +18,9 @@
 
 --Attrition rate by gender for different age group
 
-<img width="767" alt="image" src="https://github.com/Babisunu03/HR-Analytics/assets/120686138/c4120d9b-aaa7-4dd6-8c17-f88fd3e231b6">
+
+<img width="761" alt="image" src="https://github.com/Babisunu03/HR-Analytics/assets/120686138/3a57c9cf-c424-469f-b4b7-5b46a2500f32">
+
 
 
 
